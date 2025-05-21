@@ -44,3 +44,6 @@ hs_err_pid*
 # mac
 .DS_Store
 .env
+*.pth
+*.pt
+*cifar-10*
